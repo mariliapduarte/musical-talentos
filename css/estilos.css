@@ -148,9 +148,7 @@ figure a img {
       display: flex;
 }
 
-.violino-img {
-      max-width: 25%;
-}
+
 
 
 @media screen and (min-width: 1000px) {
