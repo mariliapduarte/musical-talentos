@@ -3,9 +3,9 @@
         <article class="conteudo limitador">
             <h2>Contato</h2>
 
-                <p>Nós, do Projeto Musical Talentos agradecemos seu contato ou seu intersse em fazer parte do nosso time de estudos.</p>
+                <p>Nós, do Projeto Musical Talentos agradecemos seu contato ou seu interesse em fazer parte do nosso time de estudos.</p>
             
-                <p>Preencha este formulario, demonstrando o assunto desejado e entaremos em contato, para conversarmos.</p>
+                <p>Preencha este formulario, demonstrando o assunto desejado e entraremos em contato, para conversarmos.</p>
 
                 <!-- Formulario contato -->
                 <!-- Action - Envio ao formspree.io (envio de dados para o email cadastrado no site) -->
@@ -100,8 +100,8 @@
                         <input value="Teclado" type="checkbox" name="interesses" id="Teclado">
                         <label for="Teclado">Teclado</label>
 
-                        <input value="FlautaContraldo" type="checkbox" name="interesses" id="FlautaContraldo">
-                        <label for="FlautaContraldo">Flauta Contraldo</label>
+                        <input value="FlautaContralto" type="checkbox" name="interesses" id="FlautaContralto">
+                        <label for="FlautaContralto">Flauta Contralto</label>
 
                         <input value="FlautaSoprano" type="checkbox" name="interesses" id="FlautaSoprano">
                         <label for="FlautaSoprano">Flauta Soprano</label>
