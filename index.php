@@ -6,9 +6,9 @@
 
             <h3>Apresentação do projeto:</h3>
 
-                <p>O projeto "Musical Talentos" oferta aulas de música gratuita para todas as idades, aos sábados. <br> O objetivo do projeto é: <br> 1.a. Atrair alunos de todas as classes sociais; <br> 1.b. Atrair patrocinio para manutenção dos instrumentos e aprimoramento do projeto.</p>   
-
+            <p>O projeto "Musical Talentos" oferta aulas de música gratuita para todas as idades, aos sábados. <br> O objetivo do projeto é: <br>1-Ensinar a música para diversas pessoas.<br>2- Atrair alunos de todas as classes sociais; <br> 3- Atrair patrocinio para a manutenção dos instrumentos e aprimoramento do projeto.</p>   
             <hr>
+
 
             <h3>Apresentação dos instrumentos</h3>
 
@@ -18,26 +18,27 @@
                     <li>Viola de Arco</li>
                     <li>Violão</li>
                     <li>Teclado</li>
-                    <li>Flauta Contraldo</li>
-                    <li>Flauta Soprano</li>
                     <li>Escaleta</li>
+                    <li>Flauta Contralto</li>
+                    <li>Flauta Soprano</li>
+                    
                 </ul>    
               
             <hr>
 
             <h3>Apresentação dos professores e alunos</h3>
 
-                <p>No momento, tem 1 professor/coordenador, Valmir Ricardo e 64 alunos inscritos em 3 turnos.
-                </p>
+            <p>No momento, tem 1 professor/coordenador, Valmir Ricardo criador e responsavél pelo projeto sendo assim o professor voluntário que ministra as aulas de música para os 60 alunos inscritos em 04 turmas em diferentes horários.
+            </p>
 
             <hr>
 
             <h3>Aulas ministradas</h3>
 
-                <p>	Duas horas de aula aos sabados, dividido em teoria, prática e ensaio (A escola cede o instrumento para o aluno que não tiver).<br>Horários das aulas:<br>08h30 as 10h30<br>10h30 ao 12h30<br>14h30 as 16h30</p>
+            <p>	Tendo como duração de 02h30 de aula por turma aos sábados, divididas em: Prática no Instrumento, Teoria Musical, História da Música, Caderno de Música e Ensaio Musical (A escola cede o instrumento para o aluno que não tiver, juntamente com o crachá de identificação e apostila para estudo em sala de aula).<br>Horários das aulas:<br>08h30 as 10h55<br>09h20 as 11h50<br>13h10 as 15h35,<br>14h00 as 16h30<br></p>
+            <hr> 
 
-            <hr>
-
+           
             <h3>Localização:</h3>
 
                 <p>Escola Estadual José Candido de Souza, localizada na Rua Diana, 1070 - Pompéia - Cep: 05019-000 - São Paulo/SP</p>
