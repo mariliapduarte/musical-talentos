@@ -7,8 +7,7 @@ $pagina = basename($_SERVER['PHP_SELF']); /* Essa função consegue extrair o no
 switch($pagina){
     case 'index.php': $titulo = "Página Inicial"; break; /* break - se for verdadeiro pare por aqui - se não tivesse o break ia ficar carregando o pag infinitamemte ou poderia dar um resultsado inesperado */
     case 'noticias.php': $titulo = "Notícias"; break;
-    case 'contatoinscricoes.php': $titulo = "Contato"; break;
-    default: $titulo = "Contato"; break;
+     default: $titulo = "Contato"; break;
 }
 
 ?>
