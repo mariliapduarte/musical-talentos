@@ -154,9 +154,9 @@
 
                     <div>
                     <label for="mensagem">Mensagem: 
-                        <span id="maximo"> (restam <b id="caracteres">100</b> caracteres)</span>
+                        <span id="maximo"> (restam <b id="caracteres">1000</b> caracteres)</span>
                     </label> <br>
-                    <textarea maxlength="100" name="mensagem" id="mensagem" cols="20" rows="5"></textarea>
+                    <textarea maxlength="1000" name="mensagem" id="mensagem" cols="20" rows="5"></textarea>
                 </div>
 
                 <button type="submit">Enviar dados</button>
