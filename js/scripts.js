@@ -23,6 +23,7 @@ botaoLocalizar.addEventListener("click", function(event){
 
     // enviar cep padrão da API webservice.com.br - formato json
     let url = `https://viacep.com.br/ws/${cep}/json/`;
+    //let url = "https://viacep.com.br/ws/"+cep+"/json/";
 
     // console.log(url); teste realizado
 
@@ -86,26 +87,24 @@ const textMensagem = formulario.querySelector("#mensagem");
     textMensagem.addEventListener("input", function(){
         
         // Capturando o que for digitado
-        let conteudo = textMensagem.value
+        let conteudo = textMensagem.value;
 
         // Criando uma contagem regressiva
         let contagem = quantidade - conteudo.length;
 
         // Adicionando contagem ao elemento HTML - restam 100 caracteres
-        bCaracteres.textContent = contagem; 
+        bCaracteres.textContent = contagem;
 
-            // Se for igual a zero = caracter contagem e borda ficará vermelho (red), se for maior ficará preto (black)
-            //  dois iguais é comparação ==
-            if(contagem <= 0){ 
-                bCaracteres.style.color = "red";
-                textMensagem.style.boxShadow = "red 0 0 10px"
-            } else { 
-                bCaracteres.style.color = "black";
-                textMensagem.style.boxShadow = "black 0 0 10px"
-            };
-
-
-    });
+          // Se for igual a zero = caracter contagem e borda ficará vermelho (red), se for maior ficará preto (black)
+          //  dois iguais é comparação ==
+          if (contagem == 0) {
+              bCaracteres.style.color = "red";
+              textMensagem.style.boxShadow = "red 0 0 10px";
+          } else {
+              bCaracteres.style.color = "black";
+              textMensagem.style.boxShadow = "black 0 0 10px";
+          }
+      });
 
 
 
