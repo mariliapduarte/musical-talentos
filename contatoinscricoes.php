@@ -3,9 +3,9 @@
         <article class="conteudo limitador">
             <h2>Contato</h2>
 
-                <p>Nós, do Projeto Musical Talentos agradecemos seu contato ou seu intersse em fazer parte do nosso time de estudos.</p>
+                <p>Nós, do Projeto Musical Talentos agradecemos seu contato ou seu interesse em fazer parte do nosso time de estudos.</p>
             
-                <p>Preencha este formulario, demonstrando o assunto desejado e entaremos em contato, para conversarmos.</p>
+                <p>Preencha este formulario, demonstrando o assunto desejado e entraremos em contato, para conversarmos.</p>
 
                 <!-- Formulario contato -->
                 <!-- Action - Envio ao formspree.io (envio de dados para o email cadastrado no site) -->
@@ -58,7 +58,7 @@
                         <input type="number" name="idade" id="idade" min="18" max="100">
                     </div>
 
-                    <div>
+                    <div class="sexo">
                         <p>Sexo:</p>
                         
                         <!-- Em input tipo radio, será: -->
@@ -75,7 +75,7 @@
 
                     </div>
 
-                    <div>
+                    <div class="interesses">
                         <p>Interesses:</p>
 
                         <!-- Em input tipo checkbox, será: -->
@@ -100,8 +100,8 @@
                         <input value="Teclado" type="checkbox" name="interesses" id="Teclado">
                         <label for="Teclado">Teclado</label>
 
-                        <input value="FlautaContraldo" type="checkbox" name="interesses" id="FlautaContraldo">
-                        <label for="FlautaContraldo">Flauta Contraldo</label>
+                        <input value="FlautaContralto" type="checkbox" name="interesses" id="FlautaContralto">
+                        <label for="FlautaContralto">Flauta Contralto</label>
 
                         <input value="FlautaSoprano" type="checkbox" name="interesses" id="FlautaSoprano">
                         <label for="FlautaSoprano">Flauta Soprano</label>
@@ -153,25 +153,23 @@
                     </div>
 
                     <div>
-                        <!-- instrução do caixa (Mensagem:)  -->
-                        <!-- for será igual id -->
-                        <label for="mensagem">Mensagem: 
-                            <span id="maximo"> (restam <b id="caracteres">1000</b> caracteres)</span>
-                        </label> <br>
-                        <textarea maxlenght="1000" name="mensagem" id="mensagem" cols="20" rows="5"></textarea>
+                    <label for="mensagem">Mensagem: 
+                        <span id="maximo"> (restam <b id="caracteres">100</b> caracteres)</span>
+                    </label> <br>
+                    <textarea maxlength="100" name="mensagem" id="mensagem" cols="20" rows="5"></textarea>
+                </div>
 
-                    </div>
+                <button type="submit">Enviar dados</button>
 
-                    <!-- botão para enviar dados -->
-                    <button type="submit">Enviar dados</button>
-                    
-                    <p id="my-form-status"></p>
-                                    <!-- ou -->
-                    <!-- <input type="button" value="Enviar dados"> -->
+                <p id="my-form-status"></p>
 
-                </form>
+                <!-- Pode ser assim também: -->
+                <!-- <input type="button" value="Enviar dados"> -->
+            </form>
 
+        
         </article>
+        
     </main>
     
     <?php require "includes/rodape.php" ?>

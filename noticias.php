@@ -11,8 +11,8 @@
 
                
             <figure>
-                <a href="imagens/instrumento musical - violino.jpg">
-                    <img class="violino-img" src="imagens/instrumento musical - violino.jpg" alt="">
+                <a href="imagens/instrumentos/instrumento musical - violino.jpg">
+                    <img class="violino-img" src="imagens/instrumentos/instrumento musical - violino.jpg" alt="violino">
                 </a>
                <h2>Violino</h2>
                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
@@ -21,8 +21,8 @@
          
                 
             <figure>
-                <a href="imagens/instrumento musica - violão.jpg">
-                    <img src="imagens/instrumento musica - violão.jpg" alt="">
+                <a href="imagens/instrumentos/instrumento musica - violão.jpg">
+                    <img src="imagens/instrumentos/instrumento musica - violão.jpg" alt="violão">
                 </a>
                 <h2>Violão</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
@@ -31,8 +31,8 @@
             
             <figure>
                 
-                <a href="imagens/instrumento musical - teclado.jpg">
-                    <img src="imagens/instrumento musical - teclado.jpg" alt="">
+                <a href="instrumentos/instrumentos/imagens/instrumento musical - teclado.jpg">
+                    <img src="imagens/instrumentos/instrumento musical - teclado.jpg" alt="instrumento musical teclado">
                 </a>
                 <h2>Teclado</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
@@ -42,8 +42,8 @@
 
             
             <figure> 
-                <a href="imagens/instrumento musical - viola de arco.jpg">
-                    <img src="imagens/instrumento musical - viola de arco.jpg" alt="">
+                <a href="imagens/instrumentos/instrumento musical - viola de arco.jpg">
+                    <img src="imagens/instrumentos/instrumento musical - viola de arco.jpg" alt="viola de arco">
                 </a>
                 <h2>Viola de Arco</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
@@ -54,6 +54,47 @@
         </section>
         </article> 
     
+        <h2>Nossos apoiadores</h2>
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero dolorum, maxime et consequatur architecto perspiciatis impedit ullam. Facilis sapiente magni accusantium consectetur qui omnis, consequatur autem iusto sunt tenetur id!</p>
+
+<section class="blocos-noticias">
+
+   
+<figure>
+    <a href="imagens/instrumentos/instrumento musical - violino.jpg">
+        <img class="violino-img" src="imagens/instrumentos/instrumento musical - violino.jpg" alt="violino">
+    </a>
+</figure>
+
+    
+<figure>
+    <a href="imagens/instrumentos/instrumento musica - violão.jpg">
+        <img src="imagens/instrumentos/instrumento musica - violão.jpg" alt="violão">
+    </a>
+</figure>           
+
+
+<figure>
+    
+    <a href="instrumentos/instrumentos/imagens/instrumento musical - teclado.jpg">
+        <img src="imagens/instrumentos/instrumento musical - teclado.jpg" alt="instrumento musical teclado">
+    </a>
+</figure>
+
+
+
+<figure> 
+    <a href="imagens/instrumentos/instrumento musical - viola de arco.jpg">
+        <img src="imagens/instrumentos/instrumento musical - viola de arco.jpg" alt="viola de arco">
+    </a>
+</figure>
+
+
+
+</section>
+</article> 
+<h2><strong>Seu apoio é muito importante para esse projeto acontecer. Clique aqui para nos apoiar.</strong></h2>
     
 
 <?php require "includes/rodape.php" ?>

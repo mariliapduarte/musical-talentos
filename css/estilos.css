@@ -27,14 +27,24 @@ h3, h2{
 }
 
 p{
-      text-align: center;
-      justify-content: center;
+  text-align: center;
+  justify-content: center;
 }
 
 ul li{
       text-align: center;
       justify-content: center;
       list-style-type: none;
+}
+
+.sexo{
+      text-align: center;
+      justify-content: center;
+}
+
+.interesses{
+      text-align: center;
+      justify-content: center;
 }
 
 header .limitador {  
@@ -139,18 +149,22 @@ form div {margin-top: 1rem;
 
 .blocos-noticias {
       display: flex;
+      text-align: center;
+
 }
 
-figure a img {
+img {
       max-width: 50%;
-      align-items: center;
-      justify-content: center;
-      display: flex;
+  
+           
 }
 
-.violino-img {
-      max-width: 25%;
-}
+
+
+
+
+
+
 
 
 @media screen and (min-width: 1000px) {

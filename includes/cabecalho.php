@@ -6,8 +6,8 @@ $pagina = basename($_SERVER['PHP_SELF']); /* Essa função consegue extrair o no
 // Parte 02: Condicional para avaliar qual pág está aberta e definir qual título utilizar
 switch($pagina){
     case 'index.php': $titulo = "Página Inicial"; break; /* break - se for verdadeiro pare por aqui - se não tivesse o break ia ficar carregando o pag infinitamemte ou poderia dar um resultsado inesperado */
-    case 'noticias.php': $titulo = "Notícias"; break;
-     default: $titulo = "Contato"; break;
+    case 'noticias.php': $titulo = "Notícias e Apoio"; break;
+     default: $titulo = "Contato e Inscrições"; break;
 }
 
 ?>
@@ -32,7 +32,7 @@ switch($pagina){
             <h1>
 
                 <figure>   
-                    <img src="imagens/logo-musical-talentos.jpg" alt="logo-projeto-musical-talentos">
+                    <img src="imagens/logo-musical-talentos.jpg" alt="logo-projeto-musical-talentos"> <!-- colocar link para home -->
                 </figure>
 
             </h1>
@@ -49,9 +49,9 @@ switch($pagina){
                     <!-- atalho li*3> - cria lista não ordenada com 4 links,  -->
                     <!-- <ul class="links-menu aberto"> -->
                     <ul class="links-menu">    
-                        <li><a href="index.php">Home</a></li>
-                        <li><a href="noticias.php">Noticias e apoiadores</a></li>
-                        <li><a href="contatoinscricoes.php">Contato e inscrições</a></li>
+                        <li><a href="index.php">Página Inicial</a></li>
+                        <li><a href="noticias.php">Noticias e Apoiadores</a></li>
+                        <li><a href="contatoinscricoes.php">Contato e Inscrições</a></li>
                     </ul>
                 </h2>
             </nav>
