@@ -38,6 +38,19 @@
                         
                         <!-- caixa de entrada -->
                         <input type="date" name="nascimento" id="nascimento">
+
+                    </div>
+
+                    <div>
+                        <!-- instrução do caixa (Idade:)  -->
+                        <!-- for será igual id -->
+                        <label for="idade">Idade:</label>
+                        
+                        <!-- caixa de entrada -->
+                        <input type="number" name="idade" id="idade" min="18" max="100" placeholder="Idade" disabled>
+
+                            <p> <b> Obs.: Abaixo de 18 anos, será necessário a presença dos Pais ou Responsáveis para fazer inscrição no curso. </b> </p>
+
                     </div>
 
                     <div>
@@ -47,15 +60,6 @@
                         
                         <!-- caixa de entrada -->
                         <input type="tel" name="telefone" id="telefone">
-                    </div>
-
-                    <div>
-                        <!-- instrução do caixa (Idade:)  -->
-                        <!-- for será igual id -->
-                        <label for="idade">Idade:</label>
-                        
-                        <!-- caixa de entrada -->
-                        <input type="number" name="idade" id="idade" min="18" max="100">
                     </div>
 
                     <div class="sexo">

@@ -13,7 +13,7 @@ html, body {background-color: lightgray;
       line-height: 18px;
 }
         
-header img {width: 4.5rem;
+header img {width: 10rem;
 }
 
 /* Regra para elemento div, com classe limitador, dentro do cabeçalho */
@@ -63,8 +63,7 @@ header .limitador {
       
       /* flex-box - colocará os itens lado a lado e receberá também o limitador de tamanho de 1100px e margem auto*/
       display: flex;
-      justify-content:center;
-      /* justify-content:left; */
+      justify-content: left ;
       align-items: center;
       background-color: rgb(202, 192, 192);
 }
@@ -89,7 +88,7 @@ nav h2 a:focus,
       font-weight: bold;
       font-size: 0.75rem;
       height: 1.5rem;
-      width: 280%;
+      width: 36rem;
       display: flex;
 }
 
@@ -154,16 +153,8 @@ form div {margin-top: 1rem;
 }
 
 img {
-      max-width: 50%;
-  
-           
+      max-width: 50%;     
 }
-
-
-
-
-
-
 
 
 
@@ -179,7 +170,7 @@ img {
             line-height: 25px;
       }
 
-      header img {width: 7rem;
+      header img {width: 13rem;
       }
       
       /* Regra para elemento div, com classe limitador, dentro do cabeçalho */
@@ -227,7 +218,7 @@ img {
             font-weight: bold;
             font-size: 1rem;
             height: 2rem;
-            width: 460%;
+            width: 60rem;
             display: flex; 
       }
       
