@@ -3,7 +3,7 @@
 /* Alterando o box model - width / height / padding / border para todos elementos da pagina */
 *, *::after, *::before { box-sizing: border-box; }
 
-html, body {background-color: lightgray;
+html, body {background-color: gray;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       font-size: 12px;
       margin-right: auto;
