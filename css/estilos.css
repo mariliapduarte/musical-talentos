@@ -235,7 +235,6 @@ a {
 .slick-center:after {
     opacity: 0;
 }
-
 /* Fim da estilização do carrossel */
 
 
@@ -245,6 +244,17 @@ a {
     max-width: 1000px;
     margin: auto;
     text-align: justify;
+}
+
+h3 {
+    font-size: 1.5rem;
+    padding: 15px;
+}
+
+p {
+    font-size: 1.2rem;
+    margin-left: 15px;
+    padding-bottom: 15px;
 }
 
 .c1 {
@@ -277,17 +287,6 @@ a {
 .c4 p {
     font-size: 1.2rem;
     margin-right: 15px;
-    padding-bottom: 15px;
-}
-
-h3 {
-    font-size: 1.5rem;
-    padding: 15px;
-}
-
-p {
-    font-size: 1.2rem;
-    margin-left: 15px;
     padding-bottom: 15px;
 }
 
