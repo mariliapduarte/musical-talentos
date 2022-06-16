@@ -46,9 +46,9 @@ switch ($pagina) {
             </button>
 
             <ul class="navbar-nav">
-                <li class="nav-link"><a href="#">Home</a></li>
-                <li class="nav-link"><a href="#">Notícias</a></li>
-                <li class="nav-link"><a href="#">Contato e Inscrições</a></li>
+                <li class="nav-link"><a href="index.php">Home</a></li>
+                <li class="nav-link"><a href="noticias.php">Notícias</a></li>
+                <li class="nav-link"><a href="contatoinscricoes.php">Contato e Inscrições</a></li>
             </ul>
 
         </div>

@@ -79,7 +79,7 @@ a {
     text-decoration: none;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1200px) {
     .navbar-brand {
         margin-left: 7rem;
     }
@@ -100,7 +100,7 @@ a {
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1200px) {
     [aria-controls="navbarDropdown"] {
         display: block;
     }
@@ -113,21 +113,19 @@ a {
         display: block;
         position: absolute;
         right: 0;
-        top: 79px;
+        top: 77px;
         padding: 1rem;
-        background: linear-gradient(to left, transparent, rgba(255, 255, 255, 0.705));
+        background: linear-gradient(to left, transparent, rgb(0, 0, 0));
         width: 100%;
         text-align: left;
-        box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.479);
+
     }
 
     [aria-expanded="true"]~ul li a {
         margin-right: 20px;
-        color: black;
+        color: white;
         font-size: 1.5rem;
     }
-
-    
 }
 
 /* Fim da estilização do menu */
@@ -143,6 +141,7 @@ a {
     background: url(../imagens/capa/capaprincipal.png) center no-repeat;
     background-size: cover;
     overflow: hidden;
+    box-shadow: 1px 1px 10px black;
 }
 
 .carro:after {
@@ -238,3 +237,69 @@ a {
 }
 
 /* Fim da estilização do carrossel */
+
+
+
+/* Início da estilização do conteúdo*/
+.limitador {
+    max-width: 1000px;
+    margin: auto;
+    text-align: justify;
+}
+
+.c1 {
+    text-align: left;
+    background: linear-gradient(to right, gray, transparent);
+}
+
+.c2 {
+    text-align: right;
+    background: linear-gradient(to left, gray, transparent);
+}
+
+.c2 ul {
+    font-size: 1.2rem;
+    margin-right: 15px;
+    padding-bottom: 15px;
+    font-weight: bold;
+}
+
+.c3 {
+    text-align: left;
+    background: linear-gradient(to right, gray, transparent);
+}
+
+.c4 {
+    text-align: right;
+    background: linear-gradient(to left, gray, transparent);
+}
+
+.c4 p {
+    font-size: 1.2rem;
+    margin-right: 15px;
+    padding-bottom: 15px;
+}
+
+h3 {
+    font-size: 1.5rem;
+    padding: 15px;
+}
+
+p {
+    font-size: 1.2rem;
+    margin-left: 15px;
+    padding-bottom: 15px;
+}
+
+#map {
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.397);
+}
+
+footer {
+    padding: 15px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
