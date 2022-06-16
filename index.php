@@ -1,9 +1,44 @@
 <?php require "includes/cabecalho.php"?>
 
 
+<script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+  
+<div class="carro">  
+  <div class="slider">
+    
+    <div class="item">
+      <img src="imagens/img-carro/notas.jpg" alt="">
+    </div>
+    <div class="item">
+      <img src="imagens/img-carro/violoncelo.jpg" alt="">
+    </div>
+    <div class="item">
+      <img src="imagens/img-carro/flauta.jpg" alt="">
+    </div>
+    <div class="item">
+      <img src="imagens/img-carro/orquestra.jpg" alt="">
+    </div>
+    <div class="item">
+      <img src="imagens/img-carro/violao.jpg" alt="">
+    </div>
+    <div class="item">
+      <img src="imagens/img-carro/violino.jpg" alt="">
+    </div>
+    <div class="item">
+      <img src="imagens/img-carro/teclado.jpg" alt="">
+    </div>
+    <div class="item">
+      <img src="imagens/img-carro/sinfonia.jpg" alt="">
+    </div>
+    
+  </div>
+</div>
 
 
-        <article>
+
+        <article class="limitador">
 
             <h3>Apresentação do projeto:</h3>
 
