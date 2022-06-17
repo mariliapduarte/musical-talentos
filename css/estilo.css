@@ -7,9 +7,8 @@
 }
 
 body {
-    background-color: rgba(128, 128, 128, 0.575);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(to bottom, gray, black);
+    background: linear-gradient(to bottom, rgba(128, 128, 128, 0.568), black);
 }
 
 /* Início da estilização do menu */
@@ -394,6 +393,10 @@ select {
 select:hover {
     border: solid orange;
     transition: 0.3s;
+}
+
+textarea:hover {
+    border: solid orange;
 }
 
 /* Fim da estilização contato*/
