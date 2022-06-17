@@ -16,10 +16,11 @@
                         <!-- instrução do caixa (Nome:)  -->
                         <!-- for será igual id -->
                         <label for="nome">Nome:</label>
+                        </div>
                         
                         <!-- caixa de entrada -->
                         <!-- required, não permite envio em branco do item -->
-                        
+                        <div>
                         <input type="text" name="nome" id="nome" required>
                         </div>
 
@@ -27,11 +28,12 @@
                         <!-- for será igual id -->
                         <div>
                         <label for="email">E-mail:</label>
+                        </div>
                         
 
                         <!-- caixa de entrada -->
                         <!-- required, não permite envio em branco do item -->
-                        
+                        <div>
                         <input type="email" name="email" id="email" required>
                         </div>
                     </div>

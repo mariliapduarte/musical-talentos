@@ -71,7 +71,7 @@ li {
 }
 
 li a:hover {
-    background: linear-gradient(to left, transparent, rgba(255, 166, 0, 0.507));
+    background: linear-gradient(to left, transparent, orange);
     border-radius: 5px;
 }
 
@@ -322,13 +322,11 @@ form {
 
 #ne {
     padding: 15px;
-    display: flex;
-    justify-content: space-between;
 }
 
 #ne input {
     height: 2rem;
-    width:230px;
+    width: 300px;
     border-radius: 5px;
 }
 
@@ -338,7 +336,7 @@ form {
 
 #dat input {
     height: 2rem;
-    width:130px;
+    max-width:130px;
     border-radius: 5px;
 }
 
@@ -348,7 +346,7 @@ form {
 
 .tel input {
     height: 2rem;
-    width:230px;
+    width: 300px;
     border-radius: 5px;
 }
 
@@ -366,7 +364,7 @@ form {
 
 #formulario input {
     height: 2rem;
-    width:230px;
+    width: 300px;
     border-radius: 5px;
 }
 
@@ -386,7 +384,7 @@ input:hover {
 
 select {
     height: 2rem;
-    width:230px;
+    width: 300px;
     border-radius: 5px;
 }
 
