@@ -259,11 +259,13 @@ h3 {
 .c1 {
     text-align: left;
     background: linear-gradient(to right, rgb(128, 128, 128), transparent);
+    box-shadow: -10px 0px 10px rgba(0, 0, 0, 0.233);
 }
 
 .c2 {
     text-align: right;
     background: linear-gradient(to left, gray, transparent);
+    box-shadow: 10px 0px 10px rgba(0, 0, 0, 0.233);
 }
 
 .c2 ul {
@@ -276,11 +278,13 @@ h3 {
 .c3 {
     text-align: left;
     background: linear-gradient(to right, gray, transparent);
+    box-shadow: -10px 0px 10px rgba(0, 0, 0, 0.233);
 }
 
 .c4 {
     text-align: right;
     background: linear-gradient(to left, gray, transparent);
+    box-shadow: 10px 0px 10px rgba(0, 0, 0, 0.233);
 }
 
 .c4 p {
