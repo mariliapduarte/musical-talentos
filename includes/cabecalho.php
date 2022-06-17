@@ -28,7 +28,7 @@ switch ($pagina) {
     <title><?= $titulo ?></title>
 
     <!-- Atalho CTRL+clicar no link, cria pasta e arquivo automaticamente -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/estilo.css">
 
 </head>
 

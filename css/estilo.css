@@ -301,7 +301,14 @@ h3 {
 
 
 /*Início da estilização notícias*/
+.noticias {
+    margin-top: 4rem;
+    padding: 15px;
+}
 
+.imgp {
+    padding: 15px;
+}
 /* Fim da estilização notícias*/
 
 
