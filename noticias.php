@@ -1,6 +1,6 @@
 <?php require "includes/cabecalho.php" ?>
 
-<article class="noticias">
+<article class="noticias limitador">
 
 
 
@@ -10,91 +10,98 @@
     <p>Ea possimus aut facilis incidunt natus dolorem accusantium impedit expedita cupiditate voluptatum doloremque, sint esse voluptatem voluptate quasi fugit minus eos. Perspiciatis, excepturi ipsam fuga asperiores ducimus dolores quam. Tempore!</p>
 
 
-    <div class="imgp">
-        <img src="imagens/capa-not/capa-not1.jpg" alt="" width="600" height="1000">
-    </div>
-
     <section class="bnot">
+        <div class="imgp">
+            <img src="imagens/capa-not/capa-not1.jpg" alt="" width="200" height="300">
+        </div>
 
 
-        <figure class="bnot1">
-            <a href="imagens/instrumentos/instrumento musical - violino.jpg">
-                <img class="violino-img" src="imagens/instrumentos/instrumento musical - violino.jpg" alt="violino">
-            </a>
-            <h3>Violino</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
-
-
-            <a href="imagens/instrumentos/instrumento musica - violão.jpg">
-                <img src="imagens/instrumentos/instrumento musica - violão.jpg" alt="violão">
-            </a>
-            <h3>Violão</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
-
-
-            <div id="imgp">
-                <img src="imagens/capa-not/capa-not2.jpg" alt="" width="600" height="1000">
+        <div class="sbnot">
+            <div class="not">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
+                <a href="imagens/instrumentos/instrumento musical - violino.jpg">
+                    <img class="violino-img" src="imagens/instrumentos/instrumento musical - violino.jpg" alt="violino">
+                </a>
             </div>
 
-            <a href="instrumentos/instrumentos/imagens/instrumento musical - teclado.jpg">
-                <img src="imagens/instrumentos/instrumento musical - teclado.jpg" alt="instrumento musical teclado">
-            </a>
-            <h3>Teclado</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
+            <div class="not">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
+                <a href="imagens/instrumentos/instrumento musica - violão.jpg">
+                    <img src="imagens/instrumentos/instrumento musica - violão.jpg" alt="violão">
+                </a>
+            </div>
+    </section>
 
+    <section class="bnot">
+        <div class="imgp">
+            <img src="imagens/capa-not/capa-not2.jpg" alt="" width="200" height="300">
+        </div>
 
-            <a href="imagens/instrumentos/instrumento musical - viola de arco.jpg">
-                <img src="imagens/instrumentos/instrumento musical - viola de arco.jpg" alt="viola de arco">
-            </a>
-            <h3>Viola de Arco</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
+        <div class="sbnot">
+            <div class="not">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
+                <a href="instrumentos/instrumentos/imagens/instrumento musical - teclado.jpg">
+                    <img src="imagens/instrumentos/instrumento musical - teclado.jpg" alt="instrumento musical teclado">
+                </a>
+            </div>
 
-        </figure>
-
+            <div class="sbnot">
+                <div class="not">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
+                    <a href="imagens/instrumentos/instrumento musical - viola de arco.jpg">
+                        <img src="imagens/instrumentos/instrumento musical - viola de arco.jpg" alt="viola de arco">
+                    </a>
+                </div>
+            </div>
 
     </section>
 
+    <h3>Nossos apoiadores</h3>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero dolorum, maxime et consequatur architecto perspiciatis impedit ullam. Facilis sapiente magni accusantium consectetur qui omnis, consequatur autem iusto sunt tenetur id!</p>
+
+    <section class="bnot2">
+
+        <div class="sbnot2"></div>
+        <div class="not2">
+            <a href="imagens/instrumentos/instrumento musical - violino.jpg">
+                <img class="violino-img" src="imagens/instrumentos/instrumento musical - violino.jpg" alt="violino">
+            </a>
+        </div>
+        </div>
 
 
-<div id="imgp">
-    <img src="imagens/capa-not/capa-not3.jpg" alt="" width="600" height="1000">
-</div>
+        <div class="sbnot2"></div>
+        <div class="not2">
+            <a href="imagens/instrumentos/instrumento musica - violão.jpg">
+                <img src="imagens/instrumentos/instrumento musica - violão.jpg" alt="violão">
+            </a>
+        </div>
+        <div>
 
-<h3>Nossos apoiadores</h3>
+        <div class="sbnot2">
+            <div class="not2">
+                <a href="instrumentos/instrumentos/imagens/instrumento musical - teclado.jpg">
 
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero dolorum, maxime et consequatur architecto perspiciatis impedit ullam. Facilis sapiente magni accusantium consectetur qui omnis, consequatur autem iusto sunt tenetur id!</p>
-
-
-
-
-    <figure>
-        <a href="imagens/instrumentos/instrumento musical - violino.jpg">
-            <img class="violino-img" src="imagens/instrumentos/instrumento musical - violino.jpg" alt="violino">
-        </a>
-    </figure>
-
-
-    <figure>
-        <a href="imagens/instrumentos/instrumento musica - violão.jpg">
-            <img src="imagens/instrumentos/instrumento musica - violão.jpg" alt="violão">
-        </a>
-    </figure>
-
-
-    <figure>
-
-        <a href="instrumentos/instrumentos/imagens/instrumento musical - teclado.jpg">
-            <img src="imagens/instrumentos/instrumento musical - teclado.jpg" alt="instrumento musical teclado">
-        </a>
-    </figure>
+                    <img src="imagens/instrumentos/instrumento musical - teclado.jpg" alt="instrumento musical teclado">
+                </a>
+            </div>
+        </div>
 
 
 
-    <figure>
-        <a href="imagens/instrumentos/instrumento musical - viola de arco.jpg">
-            <img src="imagens/instrumentos/instrumento musical - viola de arco.jpg" alt="viola de arco">
-        </a>
-    </figure>
+        <div class="sbnot2"></div>
+        <div class="not2">
+            <a href="imagens/instrumentos/instrumento musical - viola de arco.jpg">
+                <img src="imagens/instrumentos/instrumento musical - viola de arco.jpg" alt="viola de arco">
+            </a>
+        </div>
+        <div>
+
+        <div id="imgp">
+            <img src="imagens/capa-not/capa-not3.jpg" alt="" width="200" height="300">
+        </div>
+    </section>
 
 </article>
 

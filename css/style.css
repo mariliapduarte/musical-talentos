@@ -112,7 +112,7 @@ a {
         display: block;
         position: absolute;
         right: 0;
-        top: 77px;
+        top: 69px;
         padding: 1rem;
         background: linear-gradient(to left, transparent, rgb(0, 0, 0));
         width: 100%;
@@ -126,7 +126,6 @@ a {
         font-size: 1.5rem;
     }
 }
-
 /* Fim da estilização do menu */
 
 
@@ -304,10 +303,63 @@ h3 {
 .noticias {
     margin-top: 4rem;
     padding: 15px;
+    font-size: 1.2rem;
 }
 
-.imgp {
+.bnot {
+    text-align: center;
+    width: 650px;
+    display: flex;
+    justify-content: space-between;
     padding: 15px;
+    box-shadow: 1px 1px 10px black;
+}
+
+.imgp img {
+    box-shadow: 1px 1px 10px black;
+    display: none;
+}
+
+.sbnot {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.not {
+    box-shadow: 1px 1px 10px black;
+    max-height: 150px;
+}
+
+.sbnot img {
+    width: 150px;
+    margin-left: 15px;
+    padding: 15px;
+}
+
+.not {
+    width: 400px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.bnot2 {
+    width: 650px;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    box-shadow: 1px 1px 10px black;
+}
+
+.not2 img {
+    width: 150px;
+    margin-left: 15px;
+    padding: 15px;
+}
+
+@media screen and (max-width: 1200px){
+    
 }
 /* Fim da estilização notícias*/
 
@@ -407,7 +459,6 @@ select:hover {
 textarea:hover {
     border: solid orange;
 }
-
 /* Fim da estilização contato*/
 
 footer {
