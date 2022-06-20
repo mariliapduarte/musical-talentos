@@ -9,50 +9,59 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero dolorum, maxime et consequatur architecto perspiciatis impedit ullam. Facilis sapiente magni accusantium consectetur qui omnis, consequatur autem iusto sunt tenetur id!</p>
     <p>Ea possimus aut facilis incidunt natus dolorem accusantium impedit expedita cupiditate voluptatum doloremque, sint esse voluptatem voluptate quasi fugit minus eos. Perspiciatis, excepturi ipsam fuga asperiores ducimus dolores quam. Tempore!</p>
 
-
     <section class="bnot">
+
         <div class="imgp">
-            <img src="imagens/capa-not/capa-not1.jpg" alt="" width="200" height="300">
+            <img src="imagens/capa-not/capa-not3.jpg" alt="" width="450">
         </div>
 
-
         <div class="sbnot">
+
             <div class="not">
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
-                <a href="imagens/instrumentos/instrumento musical - violino.jpg">
-                    <img class="violino-img" src="imagens/instrumentos/instrumento musical - violino.jpg" alt="violino">
+                <img class="violino-img" src="imagens/img-ctt/violino.jpg" alt="violino">
                 </a>
             </div>
 
             <div class="not">
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
-                <a href="imagens/instrumentos/instrumento musica - violão.jpg">
-                    <img src="imagens/instrumentos/instrumento musica - violão.jpg" alt="violão">
+                <img src="imagens/img-ctt/violao.jpg" alt="violão">
+
+            </div>
+
+            <div class="not">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
+                <img src="imagens/img-ctt/escaleta.jpg">
                 </a>
             </div>
+        </div>
     </section>
 
     <section class="bnot">
-        <div class="imgp">
-            <img src="imagens/capa-not/capa-not2.jpg" alt="" width="200" height="300">
-        </div>
-
         <div class="sbnot">
             <div class="not">
+                <img src="imagens/img-ctt/teclado.jpg" alt="instrumento musical teclado">
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
-                <a href="instrumentos/instrumentos/imagens/instrumento musical - teclado.jpg">
-                    <img src="imagens/instrumentos/instrumento musical - teclado.jpg" alt="instrumento musical teclado">
-                </a>
             </div>
 
-            <div class="sbnot">
-                <div class="not">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
-                    <a href="imagens/instrumentos/instrumento musical - viola de arco.jpg">
-                        <img src="imagens/instrumentos/instrumento musical - viola de arco.jpg" alt="viola de arco">
-                    </a>
-                </div>
+            <div class="not">
+
+                <img src="imagens/img-ctt/flauta.jpg" alt="viola de arco">
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
             </div>
+
+            <div class="not">
+                <img src="imagens/img-ctt/escaleta.jpg">
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
+            </div>
+        </div>
+
+        <div class="imgp">
+            <img src="imagens/capa-not/capa-not2.jpg" alt="">
+
+        </div>
 
     </section>
 
@@ -60,53 +69,25 @@
 
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero dolorum, maxime et consequatur architecto perspiciatis impedit ullam. Facilis sapiente magni accusantium consectetur qui omnis, consequatur autem iusto sunt tenetur id!</p>
 
-    <section class="bnot2">
+    <section class="bnot">
 
-        <div class="sbnot2"></div>
-        <div class="not2">
-            <a href="imagens/instrumentos/instrumento musical - violino.jpg">
-                <img class="violino-img" src="imagens/instrumentos/instrumento musical - violino.jpg" alt="violino">
-            </a>
-        </div>
+        <div class="imgp">
+            <img src="imagens/capa-not/maos.jpg" alt="" width="450">
         </div>
 
+        <div class="not">
 
-        <div class="sbnot2"></div>
-        <div class="not2">
-            <a href="imagens/instrumentos/instrumento musica - violão.jpg">
-                <img src="imagens/instrumentos/instrumento musica - violão.jpg" alt="violão">
-            </a>
-        </div>
-        <div>
+            <p style="color: white;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
 
-        <div class="sbnot2">
-            <div class="not2">
-                <a href="instrumentos/instrumentos/imagens/instrumento musical - teclado.jpg">
-
-                    <img src="imagens/instrumentos/instrumento musical - teclado.jpg" alt="instrumento musical teclado">
-                </a>
-            </div>
         </div>
 
 
-
-        <div class="sbnot2"></div>
-        <div class="not2">
-            <a href="imagens/instrumentos/instrumento musical - viola de arco.jpg">
-                <img src="imagens/instrumentos/instrumento musical - viola de arco.jpg" alt="viola de arco">
-            </a>
-        </div>
-        <div>
-
-        <div id="imgp">
-            <img src="imagens/capa-not/capa-not3.jpg" alt="" width="200" height="300">
-        </div>
     </section>
 
 </article>
 
 
-<h3><strong>Seu apoio é muito importante para esse projeto acontecer. Clique aqui para nos apoiar.</strong></h3>
+<h4>Seu apoio é muito importante para esse projeto acontecer.<a href="contatoinscricoes.php"> Clique aqui para nos apoiar.</a></h4>
 
 
 
