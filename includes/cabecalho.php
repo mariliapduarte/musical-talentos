@@ -49,7 +49,7 @@ switch ($pagina) {
             <ul class="navbar-nav">
                 <li class="nav-link"><a href="index.php">Home</a></li>
                 <li class="nav-link"><a href="instrumentos.php">Instrumentos</a></li>
-                <li class="nav-link"><a href="noticias.php">Comunicados</a></li>
+                <li class="nav-link"><a href="comunicados.php">Comunicados</a></li>
                 <li class="nav-link"><a href="contatoinscricoes.php">Inscrições</a></li>
             </ul>
 
