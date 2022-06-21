@@ -1,4 +1,5 @@
 
+</main>
 <footer>
 <a href="index.php"><img src="imagens/rodape/logo-musical-talentos.jpg" alt="" width="85" height="85"></a>
         <!-- Endereço do projeto Musical Talentos -->

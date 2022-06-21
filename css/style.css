@@ -9,6 +9,9 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: linear-gradient(to bottom, rgba(128, 128, 128, 0.568), black);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 /* Início da estilização do menu */
@@ -482,6 +485,8 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 15vh;
+
 }
 
 footer img {
@@ -492,3 +497,17 @@ footer img {
     color: rgb(31, 30, 30);
 
 }
+
+
+.not-comunicados {
+    width: auto;
+    margin: auto;
+    padding: 10px;
+    text-align: left;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.26);
+    border-radius: 10px;
+
+}
+
+main {flex: 1; }
+img { max-width: 100%;}
