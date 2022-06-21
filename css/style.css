@@ -359,15 +359,15 @@ h4 a {
     color: rgb(255, 153, 0);
 }
 
-@media screen and (min-width: 500px){
+@media screen and (min-width: 500px) {
     .imgp img {
         width: 450px;
     }
-    
+
     .not {
         width: 450px;
     }
-    
+
     .not img {
         width: 150px;
     }
