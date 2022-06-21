@@ -16,6 +16,7 @@ switch ($pagina) {
         break;
 }
 
+
 ?>
 
 <!DOCTYPE html>
