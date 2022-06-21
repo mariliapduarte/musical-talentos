@@ -26,7 +26,7 @@ switch ($pagina) {
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?= $titulo ?> 2022</title>
+    <title><?= $titulo ?></title>
 
     <!-- Atalho CTRL+clicar no link, cria pasta e arquivo automaticamente -->
     <link rel="stylesheet" href="css/style.css">
@@ -48,8 +48,9 @@ switch ($pagina) {
 
             <ul class="navbar-nav">
                 <li class="nav-link"><a href="index.php">Home</a></li>
-                <li class="nav-link"><a href="noticias.php">Notícias</a></li>
-                <li class="nav-link"><a href="contatoinscricoes.php">Contato e Inscrições</a></li>
+                <li class="nav-link"><a href="instrumentos.php">Instrumentos</a></li>
+                <li class="nav-link"><a href="noticias.php">Comunicados</a></li>
+                <li class="nav-link"><a href="contatoinscricoes.php">Inscrições</a></li>
             </ul>
 
         </div>

@@ -4,7 +4,7 @@
 
 
 
-    <h3>Notícias</h3>
+    <h3>Nossos Instrumentos</h3>
 
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero dolorum, maxime et consequatur architecto perspiciatis impedit ullam. Facilis sapiente magni accusantium consectetur qui omnis, consequatur autem iusto sunt tenetur id!</p>
     <p>Ea possimus aut facilis incidunt natus dolorem accusantium impedit expedita cupiditate voluptatum doloremque, sint esse voluptatem voluptate quasi fugit minus eos. Perspiciatis, excepturi ipsam fuga asperiores ducimus dolores quam. Tempore!</p>
