@@ -49,7 +49,7 @@
 
 
 <article id="apr" class="c2">
-  <h3>Apresentação dos instrumentos</h3>
+  <h3>Nossos instrumentos</h3>
   <ul>
     <li>Violino</li>
     <li>Violoncelo</li>
@@ -59,6 +59,7 @@
     <li>Escaleta</li>
     <li>Flauta Contralto</li>
     <li>Flauta Soprano</li>
+    <li><a class="link" href="instrumentos.php">Saiba mais</a></li>
   </ul>
 </article>
 

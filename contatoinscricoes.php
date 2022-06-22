@@ -2,7 +2,9 @@
     
         <article class="conteudo limitador">
            
-            <h2>Contato</h2>
+            <h2>Inscrições</h2>
+
+            <!--    Thalia, adicionar o iframe do Google Form aqui e DELETAR tudo abaixo (TUDO ANTES DO PHP), observar que é preciso fechar a tag </article> -->
 
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero dolorum, maxime et consequatur architecto perspiciatis impedit ullam. Facilis sapiente magni accusantium consectetur qui omnis, consequatur autem iusto sunt tenetur id!</p>
             
