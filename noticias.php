@@ -52,7 +52,7 @@
             </div>
 
             <div class="not">
-                <img src="imagens/img-ctt/escaleta.jpg">
+                <img src="imagens/img-ctt/violoncelo.jpg.png" width="50">
 
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
             </div>
