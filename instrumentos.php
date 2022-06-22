@@ -67,7 +67,15 @@ Essa diversidade de timbres chega na maioria dos teclado a milhares de opções 
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
             </div>
 
+<<<<<<< HEAD
             
+=======
+            <div class="not">
+                <img src="imagens/img-ctt/violoncelo.jpg.png" width="50">
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, ea. Soluta omnis nulla molestiae pariatur.</p>
+            </div>
+>>>>>>> baad387324aae7c46863705b3ed9dfcb8ee5659a
         </div>
 
         <div class="imgp">
