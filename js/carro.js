@@ -11,6 +11,7 @@ $('.slider').slick({
     touchMove: true,
     prevArrow:'<button class="slick-prev"> < </button>',
     nextArrow:'<button class="slick-next"> > </button>',
+    
   });
   
   
@@ -25,3 +26,20 @@ $('.slider').slick({
     });
     $(this).hide();
   });
+
+
+
+ /*  let count = 1;
+  document.getElementById("item carro").checked = true;
+
+  setInterval( function(){
+    nextImgs();
+  }, 2000 )
+
+  function nextImgs(){
+    count++;
+    if (count>8){
+      count = 1;  
+    }
+    document.getElementById("item carro").checked = true;
+  } */

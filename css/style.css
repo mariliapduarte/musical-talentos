@@ -328,11 +328,14 @@ h3 {
     justify-content: center;
     max-width: 900px;
     margin: auto;
+    transition-delay: 1s, 250ms;
+    
 }
 
 .imgp img {
     width: 300px;
     border-radius: 10px;
+    
 }
 
 .not {
