@@ -8,7 +8,7 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    /* background: linear-gradient(to bottom, rgba(128, 128, 128, 0.568), black); */
+    background: linear-gradient(to bottom, rgba(128, 128, 128, 0.568), black);
     background: linear-gradient(to bottom, #ffd1b1, #f58634);
     display: flex;
     flex-direction: column;
@@ -155,10 +155,10 @@ a {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, .5);
-}
+     background: rgba(0, 0, 0, .5);
+} 
 
-.slider {
+slider {
     position: relative;
     z-index: 200;
     padding-top: 80px;
@@ -208,7 +208,7 @@ a {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, .5);
+     background: rgba(0, 0, 0, .5); 
     transition: transform .4s;
 }
 
@@ -263,7 +263,7 @@ h3 {
 
 .c1 {
     text-align: left;
-    /* background: linear-gradient(to right, rgb(128, 128, 128), transparent); */
+    background: linear-gradient(to right, rgb(128, 128, 128), transparent); 
     background: linear-gradient(to right, #bd5206, transparent);
     box-shadow: -10px 0px 10px rgba(0, 0, 0, 0.233);
     border-radius: 10px;
@@ -271,7 +271,7 @@ h3 {
 
 .c2 {
     text-align: right;
-    /* background: linear-gradient(to left, gray, transparent); */
+    background: linear-gradient(to left, gray, transparent);
     background: linear-gradient(to left, #bd5206, transparent);
     box-shadow: 10px 0px 10px rgba(0, 0, 0, 0.233);
     border-radius: 10px;
@@ -286,7 +286,7 @@ h3 {
 
 .c3 {
     text-align: left;
-    /* background: linear-gradient(to right, gray, transparent); */
+    background: linear-gradient(to right, gray, transparent);
     background: linear-gradient(to right, #bd5206, transparent);
     box-shadow: -10px 0px 10px rgba(0, 0, 0, 0.233);
     border-radius: 10px;
@@ -294,11 +294,11 @@ h3 {
 
 .c4 {
     text-align: right;
-    /* background: linear-gradient(to left, gray, transparent); */
+    background: linear-gradient(to left, gray, transparent);
     background: linear-gradient(to left, #bd5206, transparent);
     box-shadow: 10px 0px 10px rgba(0, 0, 0, 0.233);
     border-radius: 10px;
-}
+} 
 
 .c4 p {
     font-size: 1.2rem;
@@ -338,7 +338,7 @@ h3 {
     
 }
 
-.not {
+ .not {
     width: 300px;
     margin: auto;
     display: flex;
@@ -355,11 +355,11 @@ h3 {
     transition: 1s;
     cursor: pointer;
 }
-
+ */
 .not img:hover {
     filter: grayscale(0);
     transform: scale(1.4);
-}
+} 
 
 h4 {
     text-align: center;
@@ -401,13 +401,13 @@ h4 a {
     padding: 10px;
 }
 
-form {
+ form {
     font-size: 1.2rem;
     padding: 10px;
     background-color: gray;
-    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.445);
+   box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.445); 
 }
-
+ 
 #ne {
     padding: 15px;
 }
@@ -459,7 +459,7 @@ form {
 #formulario button {
     color: white;
     border-radius: 7px;
-    background: linear-gradient(to top, rgba(255, 166, 0, 0.849), rgba(0, 0, 0, 0.836));
+     background: linear-gradient(to top, rgba(255, 166, 0, 0.849), rgba(0, 0, 0, 0.836)); 
     width: 100px;
     height: 2rem;
     cursor: pointer;
@@ -512,11 +512,10 @@ footer img {
     width: auto;
     margin: auto;
     padding: 10px;
-    text-align: left;
-    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.26);
+    text-align: left;/* 
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.26); /*  */
     border-radius: 10px;
 
-}
-
+} 
 main {flex: 1; }
 img { max-width: 100%;}
